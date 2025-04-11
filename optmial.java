@@ -3,7 +3,7 @@ import java.util.Collections;
 
  class optimal{
     public static void main(String[] args) {
-        int[] arr = {12, 3, 5, 7, 19};
+        int[] arr = {12, 3, 5, 7, 19,23,45};
         int k = 2;
 
      
